@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ParseMir", "ParseMir\ParseMir.fsproj", "{036BF566-D92C-4B3E-9DA3-3A8EB2CC688A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{036BF566-D92C-4B3E-9DA3-3A8EB2CC688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036BF566-D92C-4B3E-9DA3-3A8EB2CC688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036BF566-D92C-4B3E-9DA3-3A8EB2CC688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036BF566-D92C-4B3E-9DA3-3A8EB2CC688A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27528401-A424-4FB3-B004-7F512EC37827}
+	EndGlobalSection
+EndGlobal
